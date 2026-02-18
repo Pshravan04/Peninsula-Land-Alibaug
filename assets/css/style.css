@@ -244,7 +244,7 @@ body#non-rera .d-flex.non-rera { display: flex !important; }
 .dark-back {background-color:#000000;}
 section {border:transparent;}
 .mx-auto {margin:auto;}
-.banner-col {color:#c0840d; font:600; text-transform:uppercase; font-size:20px; font-weight:800;}
+.banner-col {color:#1E2856; font:600; text-transform:uppercase; font-size:20px; font-weight:800;}
 .nav-link.brand-logo img { width:100px;}
 #home .project-details .price {font-size:20px; font-weight:600; text-transform:capitalize;}
 .price-text {font-size:26px; margin:0px 0px 8px 0px; text-align:center;}
@@ -254,7 +254,7 @@ nav.navbar {background-color:#fff; padding:5px 20px; height:60px; width:calc(100
 nav.navbar.navbar-policy {width:100%;} 
 .nav ul.navbar-collapse {margin:0px 20px 0px 0px;}
 .navbar-light .navbar-nav .nav-link {padding:0px 30px;color:#222}
-.navbar-light .navbar-nav .nav-item:hover a.nav-link {text-decoration:dashed; color:#A98028;}
+.navbar-light .navbar-nav .nav-item:hover a.nav-link {text-decoration:dashed; color:#1E2856;}
 .contact-btn {border-radius:10px;}
 .main-container {margin-top:50px;}
 .left-section {width:calc(100% - 300px);}
@@ -273,7 +273,7 @@ nav.navbar.navbar-policy {width:100%;}
     z-index:999;
 }
 .carousel-indicators [data-bs-target] {height:4px;} 
-#home .project-details {position:absolute; background:url(../images/contact/patter1.html) top right / 100% no-repeat transparent; background-color:#fff; border-radius:22px; padding:16px; top:25px; left:10px; width:300px; height:auto; box-shadow:0 0 10px 0 #12332C;}
+#home .project-details {position:absolute;background:url(../images/contact/patter1.html) top right / 100% no-repeat transparent;background-color:#fff;border-radius:22px;padding:16px;top:25px;left:10px;width: 350px;height:auto;box-shadow:0 0 10px 0 #12332C;}
 #home .project-details h1 {font-size:24px;}
 #home .project-details h5 {font-size:16px;}
 #home .project-details h2 {font-size:30px; margin:40px 0px -1px;}
@@ -289,7 +289,7 @@ form .form-check-input:checked {background-color:#858383; border:1px solid #8583
 input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {-webkit-appearance:none;}
 .form-section {height:calc(100% - 95px)}
 .form-section h2 {font-size:15px; font-weight:800;}
-.preRegisterBtn {text-shadow:0px 3px 6px #322601; background-color:#503d10; background:linear-gradient(-45deg, var(--Secondary-color), var(--Primary-color), var(--Secondary-color), var(--Primary-color)); background-size:400% 400%; -webkit-animation:Gradient 3s ease infinite; -moz-animation:Gradient 3s ease infinite; animation:Gradient 3s ease infinite; color:var(--colorBtn); border:none; color:#FFF; font-size:14px;}
+.preRegisterBtn {text-shadow:0px 3px 6px #006BED; background-color:#006BED; background:linear-gradient(-45deg, var(--Secondary-color), var(--Primary-color), var(--Secondary-color), var(--Primary-color)); background-size:400% 400%; -webkit-animation:Gradient 3s ease infinite; -moz-animation:Gradient 3s ease infinite; animation:Gradient 3s ease infinite; color:var(--colorBtn); border:none; color:#FFF; font-size:14px;}
 .offers {padding:10px 0px 10px 0px; color:#000; font-weight:600; font-size:14px; background:fixed; transform:scale(1);}
 .offers-list {padding:10px; color:#fff; margin:10px; font-weight:400; font-size:13px; background:#dddbdb; transform:scale(1); border:0px; -webkit-animation:pulse 1.5s ease infinite;}
 .offers-list li {letter-spacing:0.5px; color:#000;}
@@ -333,7 +333,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
 100% {background-position:0 50%}
 }
 
-.effetMoveGradient, .effetMoveGradient:hover {text-shadow:0px 3px 6px #322601; background-color:#12332C; background:linear-gradient(-45deg, #ffc541, #664907, #f1c458, #382b02) !important; background-size:400% 400%; -webkit-animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important; -moz-animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important; animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important;}
+.effetMoveGradient, .effetMoveGradient:hover {text-shadow:0px 3px 6px #006BED; background-color:#006BED; background:linear-gradient(-45deg, #1E2856, #006BED, #1E2856, #000000) !important; background-size:400% 400%; -webkit-animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important; -moz-animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important; animation:Gradient 3s ease infinite, rocking 3s ease infinite; animation-delay:2s !important;}
 .effetGradient, .effetGradient:hover {-webkit-animation:Gradient 3s ease infinite; -moz-animation:Gradient 3s ease infinite; animation:Gradient 3s ease infinite;}
 .effectScale {-webkit-transition:all .3s ease; -moz-transition:all .3s ease; -ms-transition:all .3s ease; -o-transition:all .3s ease; transition:all .3s ease; -webkit-transform:scale(1); -moz-transform:scale(1); -ms-transform:scale(1); -o-transform:scale(1); transform:scale(1);}
 .effectScale:hover {-webkit-transition:all .3s ease; -moz-transition:all .3s ease; -ms-transition:all .3s ease; -o-transition:all .3s ease; transition:all .3s ease; -webkit-transform:scale(1.08); -moz-transform:scale(1.08); -ms-transform:scale(1.08); -o-transform:scale(1.08); transform:scale(1.08);}
@@ -387,7 +387,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
 .hidden {display:none;}
 .btn-overview:active .fa-chevron-right {display:none;}
 .custom-btn { 
-    background-color: #72c526;
+    background-color: #1E2856;
     position: relative;
     padding: 2px;
     border-radius: 12px;
@@ -402,7 +402,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
   left: 0;
   width: 100%;
   height: 100%;
-  background-image:conic-gradient(from 40deg at 50% 50%, rgba(255, 255, 255, 0) 50%, #a11173 100%);
+  background-image:conic-gradient(from 40deg at 50% 50%, rgba(255, 255, 255, 0) 50%, #006BED 100%);
   animation: rotateAndScaleAnimation 3s linear infinite; 
 }
 
@@ -422,7 +422,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
 }  
 
 .enquireNowBtn.deskwhtsap a {
-    background: linear-gradient(195deg, #53d161, #23b73c);
+    background: linear-gradient(195deg, #1E2856, #006BED);
     padding: 8px 16px;
     border-radius: 12px;
     text-decoration: none;
@@ -450,7 +450,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
 ;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(195deg, #53d161, #23b73c);
+    background: linear-gradient(195deg, #1E2856, #006BED);
 }
 .slide-submit-text {
     position: absolute;
@@ -476,7 +476,7 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
     background-color: unset;
     background: #fff;
     font-weight: bold;
-    color: #4dcd5b;
+    color: #1E2856;
     border: none;
     padding: 1px;
     border-radius: 2px;
@@ -603,7 +603,7 @@ a.owl-element {text-decoration:none; color:#333;}
 .owl-carousel {display:block; width:100%; z-index:1;}
 .owl-element span {display:block; padding:60px 60px; width:160px; height:160px; margin:0 auto; line-height:40px; margin-top:5%; transition:all 0.4s ease; border:1px solid transparent; background-color:#efefef;}
 .owl-item.center>.owl-element span {width:180px; height:180px; line-height:65px; margin-top:0%; background-color:#ff6633; color:#ffffff;}
-.enquire-now {position:fixed; width:50px; height:50px; right:1rem; bottom:1rem; border-radius:50%; background:radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, var(--Primary-color) 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%); ;}
+.enquire-now {position:fixed; width:50px; height:50px; right:1rem; bottom:1rem; border-radius:50%; background:radial-gradient(ellipse farthest-corner at right bottom, #1E2856 0%, var(--Primary-color) 8%, #006BED 30%, #0d122e 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #daeaff 8%, #7fbaff 25%, #006BED 62.5%, #006BED 100%); ;}
 .enquire-now i {width:3rem; height:3rem; border-radius:50%; display:flex; align-items:center; justify-content:center; color:#fff; cursor:pointer;}
 footer p {font-size:11px; color:#5c5e5f;}
 .contact-form h6 {text-transform:uppercase; font-weight:700;}
@@ -611,7 +611,7 @@ footer p {font-size:11px; color:#5c5e5f;}
 .contact-form .form-control, .modal-body .form-control {border-bottom:2px solid #eaeaea !important; background-color:#f1f1f1; margin:5px;}
 .contact-form .form-btn {border:none; margin:10px; color:#fff; padding:5px 108px 5px 108px;}
 .enquiryBtn, .whatsaapBtn {position:fixed; right:1.5rem; bottom:4rem; z-index:99999; display:block;}
-.whatsaapBtn span {width:52px; height:52px; border-radius:50%; display:flex; align-items:center; justify-content:center; color:#fff; cursor:pointer; transition:all 300ms ease-in-out; background:#2d8b01; box-shadow:0px 3px 3px 0 #000000bd;}
+.whatsaapBtn span {width:52px; height:52px; border-radius:50%; display:flex; align-items:center; justify-content:center; color:#fff; cursor:pointer; transition:all 300ms ease-in-out; background:#1E2856; box-shadow:0px 3px 3px 0 #000000bd;}
 .enquiryBtn i {width:3.5rem; height:3.5rem; border-radius:50%; display:flex; align-items:center; justify-content:center; background:var(--golden-gradient); color:#fff; cursor:pointer; transition:all 300ms ease-in-out;}
 .form-check .form-check-input {float:left; margin-left:-1.5em; margin:9px 56px 0px -22px;}
 footer {padding:40px 20px 0px;}
@@ -619,7 +619,7 @@ footer {background-color:#fff;}
 footer .elementor-widget-container p {font-size:10px;}
 .footer-enquiryBtn {position:fixed; bottom:0px; left:0px; right:0px; display:flex; justify-content:space-between; z-index:99; text-align:center; padding:4px 2px; width:100%; background:#FFF; border-radius:0;}
 .footer-enquiryBtn a {font-size:13px; color:#fff; text-align:center; display:block; width:calc(50% - 4px); padding:2px 5px; margin:0 2px; border-radius:4px; border:1px solid rgb(0 0 0 / 15%); border-left:0; background-color:var(--Primary-color); color:#FFF; text-decoration:none; align-content:center;}
-.footer-enquiryBtn a.whatsCall {background:linear-gradient(45deg, #0db634, #015c16); border:0; border-radius:10px;}
+.footer-enquiryBtn a.whatsCall {background:linear-gradient(45deg, #1E2856, #006BED); border:0; border-radius:10px;}
 #footer-links1 {background-color:#232d30; color:#b5cfda; margin:10px 0px -17px; font-size:12px;}
 #foot_rera_qr {text-align:center;}
 #footer-links1 p {font-size:12px; padding:5px 0px; margin:0;}
@@ -695,7 +695,7 @@ footer .elementor-widget-container p {font-size:10px;}
 #autoPopup .whatsapp-img{width: 24px; margin-right: 4px;}
 #autoPopup .enquireNowBtn a
 {
-    background: linear-gradient(195deg, #53d161, #23b73c);
+    background: linear-gradient(195deg, #1E2856, #006BED);
     padding: 8px 16px;
     border-radius: 12px;
     text-decoration: none;
